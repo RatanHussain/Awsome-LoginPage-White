@@ -101,7 +101,7 @@ button{
     }   
 }
 
-
+/* noon neating css */
 
 p{
     color: #000;
@@ -161,7 +161,7 @@ p{
     left: -100px;
 }
 .bottom-circle{
-    bottom: -140px;
+    bottom: -142px;
     left: -140px;
     transform: translate(360deg);
     rotate: 280deg;
